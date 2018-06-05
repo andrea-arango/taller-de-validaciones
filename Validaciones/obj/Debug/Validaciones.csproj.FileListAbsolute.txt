@@ -1,0 +1,9 @@
+D:\Arango Restrepo\Validaciones\Validaciones\bin\Debug\Validaciones.exe.config
+D:\Arango Restrepo\Validaciones\Validaciones\bin\Debug\Validaciones.exe
+D:\Arango Restrepo\Validaciones\Validaciones\bin\Debug\Validaciones.pdb
+D:\Arango Restrepo\Validaciones\Validaciones\obj\Debug\Validaciones.csprojResolveAssemblyReference.cache
+D:\Arango Restrepo\Validaciones\Validaciones\obj\Debug\Validaciones.Form1.resources
+D:\Arango Restrepo\Validaciones\Validaciones\obj\Debug\Validaciones.Properties.Resources.resources
+D:\Arango Restrepo\Validaciones\Validaciones\obj\Debug\Validaciones.csproj.GenerateResource.Cache
+D:\Arango Restrepo\Validaciones\Validaciones\obj\Debug\Validaciones.exe
+D:\Arango Restrepo\Validaciones\Validaciones\obj\Debug\Validaciones.pdb
